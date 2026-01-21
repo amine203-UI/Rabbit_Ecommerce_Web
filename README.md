@@ -1,7 +1,5 @@
 <h1 align="center">🐇 Rabbit – Full-Stack E-Commerce Platform</h1>
-<p align="center">
-  <strong>Developed by Amine Ould Medjeber</strong>
-</p>
+
 
 <p align="center">
   <img src="/frontend/public/rabbit-image.png" alt="Ecommerce_Demo" width="700">

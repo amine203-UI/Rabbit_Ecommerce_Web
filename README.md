@@ -51,26 +51,26 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 🧩 Installation & Setup
 1️⃣ Clone the Repository
+```
 
 git clone https://github.com/amine203-UI/rabbit-ecommerce.git
 cd rabbit-ecommerce
-
+```
 2️⃣ Install Dependencies
 Backend
+```
 cd backend
 npm install
 npm run dev
+```
 Frontend
+```
 cd frontend
 npm install
 npm run dev
-📸 Project Preview
-(You can add a screenshot here once available)
+```
 
 
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
+
+
 

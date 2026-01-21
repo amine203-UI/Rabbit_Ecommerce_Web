@@ -36,7 +36,7 @@ The project focuses on **performance, scalability, and clean architecture**, ide
 ## ⚙️ Environment Variables
 
 Create a `.env` file inside the **root** or **backend** directory with the following configuration:
-
+```
 
 PORT=9000
 
@@ -47,8 +47,8 @@ JWT_SECRET=your_jwt_secret_here
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+```
 🔒 Tip: Never commit your real .env file to GitHub — add it to .gitignore for security.
-
 🧩 Installation & Setup
 1️⃣ Clone the Repository
 ```
